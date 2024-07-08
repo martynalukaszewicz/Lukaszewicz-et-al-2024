@@ -1,3 +1,3 @@
-## Title: Determining the precision of Hi-C to reconstruct bacterial genomes
+## Title: Hi-C precision in bacterial genomes reconstruction
 
 ### Authors: Martyna Lukaszewicz, Benjamin J. Ridenhour, Eva M. Top, Thibault Stalder
