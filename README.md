@@ -16,4 +16,4 @@ In the directory where the software folders are located, are the output files of
 
 1. Run the prepare_data_for_similarity_analysis.R script to create and save data.tsv and metadata.tsv files per software. The script is located at "~/contig_ids_per_clusters/".
 
-2. Run the DistancebyLength.R script to calculate dissimilarity values (Jaccard distances) and generate dissimilarity plots. The script is located at "~/".
+2. Run the DistancebyLength.R script to calculate dissimilarity values (Jaccard distances) and to generate dissimilarity plots. The script is located at "~/".
